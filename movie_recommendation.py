@@ -144,3 +144,4 @@ list_recommend = [];
 for movie in list_similarity_score:
   print(movie[0])
 print(list_recommend)
+print("mai dinh cong")
